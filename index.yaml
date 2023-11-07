@@ -3,11 +3,11 @@ entries:
   my-ap:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2023-11-07T01:52:01.0490921Z"
+    created: "2023-11-07T02:03:12.756290125Z"
     description: A Helm chart for Kubernetes
     digest: 05c1cb4e7e1351e6723fe57bb90102618d87c7ea556c8e8342974083c4b50742
     name: my-ap
     urls:
-    - https://github.com/sexymanalive/private-repo-helmss/my-ap-0.1.0.tgz
+    - https://sexymanalive.github.io/private-repo-helmss/my-ap-0.1.0.tgz
     version: 0.1.0
-generated: "2023-11-07T01:52:01.04805413Z"
+generated: "2023-11-07T02:03:12.754629735Z"
